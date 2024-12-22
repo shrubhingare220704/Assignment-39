@@ -1,9 +1,12 @@
 #heading{
     text-align: center;
+    font-size: 40px;
 }
 
 .current-Player{
     text-align: center;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 .board {
